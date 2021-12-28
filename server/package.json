@@ -1,0 +1,18 @@
+{
+  "name": "video-subtitle-adder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stedy",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^4.9.0",
+    "@google-cloud/storage": "^5.16.1",
+    "ffmpeg": "^0.0.4",
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {}
+}
